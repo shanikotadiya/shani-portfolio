@@ -29,7 +29,7 @@ import { VscVscode } from "react-icons/vsc";
 
 export const assets = {
   Profile: "/assets/Profile.jpeg",
-  Resume: "/assets/Varun_Yadav_Resume.pdf",
+  Resume: "/assets/shani-kotadiya-mern-stack.pdf",
   LeetCode: "/assets/LeetCode_logo.png",
   Gfg: "/assets/Gfg_logo.svg",
   CodingNinjas: "/assets/CodingNinjas_logo.svg",
